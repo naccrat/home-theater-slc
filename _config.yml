@@ -1,0 +1,69 @@
+url: https://handymanserviceskissimmee.com
+title: All-Pro Handyman Kissimmee
+phone: (407) 519-2147
+
+google-analytics: G-76GKRQW687
+
+category-list: [services]
+
+# Fonts
+font:
+  # Body copy
+  sans-serif-name: 'Open Sans'
+  sans-serif: "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&display=swap" 
+  # Heading copy
+  serif-name: 'Open Sans'
+  serif: ""
+
+# Privacy Policy and Terms of Service page
+state: Florida
+
+# Custom Navbar Colors
+navbar-colors:
+  bg: "#ffffff"
+  menu-color: "#000000"
+  menu-hover-color: "19495B"
+  
+# Custom button
+btn-custom-primary:
+  text-color: "#000000"
+  bg: "#F6AD54"
+  border-color: "#F6AD54"
+  hover-text-color: "#000000"
+  hover-bg: "#d0954d"
+  hover-border-color: "#d0954d"
+
+btn-custom-secondary:
+  text-color: "#000000"
+  bg: "#ffffff"
+  border-color: "#ffffff"
+  hover-text-color: "#000000"
+  hover-bg: "#dddddd"
+  hover-border-color: "#dddddd"
+
+btn-border-radius: "4px"
+
+# Call to action box bg color
+cta:
+  bg: "#19495B"
+  
+# Form background color
+form: 
+  bg: "#19495B"
+
+
+# Local Business Schema
+schema:
+  # name: Same as title above
+  image: "https://handymanserviceskissimmee.com/img/logo-all-pro.png"
+  # telephone: Same as phone above
+  priceRange: "$"
+  address:
+    city: "Kissimmee"
+    state: "Florida"
+    country: "USA"
+    postalCode: "34746"
+  hours:
+    dayOfWeek: "Monday-Sunday"
+  # url: Same as url above
+# End Schema
