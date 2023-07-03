@@ -2,17 +2,17 @@
 layout: default
 permalink: /services/
 title: Services
-meta_description: Discover a wide range of professional handyman services for your home. From repairs and installations to renovations and maintenance, our skilled team has you covered. We offer reliable solutions and exceptional craftsmanship to meet all your needs. Contact us today for expert assistance and make your home improvement projects a breeze.
+meta_description: Unlock the magic of cinema at home with our top-notch home theater services. From professional installation to cutting-edge audio and video solutions, we bring the ultimate cinematic experience to your living room in Salt Lake City UT. Elevate your entertainment with our expert team.
 
 main-image: handyman-home-improvement.jpeg
 ---
 
-<div class="py-vh-3 w-100 overflow-hidden">
+<div class="py-vh-3 w-100 overflow-hidden bg-gray-900 text-light">
   <div class="container">
     <div class="row d-flex ">
       <div class="col-lg-7">
         <h2 class="display-6">
-          Handyman Services
+          Home Theater Services
         </h2>
         {% for cat in site.category-list %}
         <ul class="list-unstyled">
@@ -21,7 +21,7 @@ main-image: handyman-home-improvement.jpeg
           {% for pc in page.categories %}
           {% if pc == cat %}
           <li class="py-2">
-            <a href="{{ page.url }}" class="link-fancy">{{ page.title }}</a>
+            <a href="{{ page.url }}" class="link-fancy text-light">{{ page.title }}</a>
           </li>
           {% endif %}
           {% endfor %}

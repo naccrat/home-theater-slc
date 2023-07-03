@@ -3,9 +3,39 @@
   
     
     <url>
-      <loc>http://localhost:4000/2023/06/26/Handyman-Services-We-Can-Help-With.html</loc>
+      <loc>http://localhost:4000/2023/06/26/transforming-living-room-into-home-theater-haven.html</loc>
       
         <lastmod>2023-06-26T00:00:00-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/2023/06/18/the-ultimate-guide-to-surround-sound-systems-for-home-theater-rooms.html</loc>
+      
+        <lastmod>2023-06-18T00:00:00-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/2023/06/08/how-to-create-your-dream-home-theater.html</loc>
+      
+        <lastmod>2023-06-08T00:00:00-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -21,7 +51,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,7 +66,7 @@
     <url>
       <loc>http://localhost:4000/blog/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +81,7 @@
     <url>
       <loc>http://localhost:4000/contact/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,22 +96,7 @@
     <url>
       <loc>http://localhost:4000/disclaimer/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/electrical-services/</loc>
-      
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,7 +111,7 @@
     <url>
       <loc>http://localhost:4000/faq/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -109,24 +124,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/flooring-services/</loc>
+      <loc>http://localhost:4000/home-automation/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/handyman-services/</loc>
-      
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -139,24 +139,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/home-security/</loc>
+      <loc>http://localhost:4000/home-theater-ogden-ut/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/hvac-services/</loc>
-      
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,52 +156,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/locations/</loc>
-      
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/painting-services/</loc>
-      
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/plumbing-services/</loc>
-      
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -231,7 +171,37 @@
     <url>
       <loc>http://localhost:4000/privacy-policy/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/projector-screens/</loc>
+      
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/projectors/</loc>
+      
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -246,7 +216,7 @@
     <url>
       <loc>http://localhost:4000/services/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -261,9 +231,39 @@
   
     
     <url>
+      <loc>http://localhost:4000/smart-lighting/</loc>
+      
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/speakers-audio/</loc>
+      
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/terms-of-service/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -278,7 +278,22 @@
     <url>
       <loc>http://localhost:4000/thank-you/</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/theater-seating/</loc>
+      
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -293,7 +308,7 @@
     <url>
       <loc>http://localhost:4000/css/theme.css</loc>
       
-        <lastmod>2023-06-29T16:50:48-06:00</lastmod>
+        <lastmod>2023-07-03T15:25:56-06:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

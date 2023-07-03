@@ -1,8 +1,8 @@
-url: https://handymanserviceskissimmee.com
-title: All-Pro Handyman Kissimmee
-phone: (407) 519-2147
+url: 
+title: Home Theater Salt Lake City
+phone: (385) 503-4456
 
-google-analytics: G-76GKRQW687
+google-analytics: G-BDDEXRNSZ3
 
 category-list: [services]
 
@@ -16,7 +16,7 @@ font:
   serif: ""
 
 # Privacy Policy and Terms of Service page
-state: Florida
+state: Utah
 
 # Custom Navbar Colors
 navbar-colors:
@@ -26,12 +26,12 @@ navbar-colors:
   
 # Custom button
 btn-custom-primary:
-  text-color: "#000000"
-  bg: "#F6AD54"
-  border-color: "#F6AD54"
-  hover-text-color: "#000000"
-  hover-bg: "#d0954d"
-  hover-border-color: "#d0954d"
+  text-color: "#ffffff"
+  bg: "#000000"
+  border-color: "#000000"
+  hover-text-color: "#ffffff"
+  hover-bg: "#3f3f3f"
+  hover-border-color: "#3f3f3f"
 
 btn-custom-secondary:
   text-color: "#000000"
@@ -45,25 +45,25 @@ btn-border-radius: "4px"
 
 # Call to action box bg color
 cta:
-  bg: "#19495B"
+  bg: "#000000"
   
 # Form background color
 form: 
-  bg: "#19495B"
+  bg: "#ffffff"
 
 
 # Local Business Schema
 schema:
   # name: Same as title above
-  image: "https://handymanserviceskissimmee.com/img/logo-all-pro.png"
+  image: ""
   # telephone: Same as phone above
-  priceRange: "$"
+  priceRange: "$$"
   address:
-    city: "Kissimmee"
-    state: "Florida"
+    city: "Salt Lake City"
+    state: "Utah"
     country: "USA"
-    postalCode: "34746"
+    postalCode: "84101"
   hours:
-    dayOfWeek: "Monday-Sunday"
+    dayOfWeek: "Monday-Saturday"
   # url: Same as url above
 # End Schema
