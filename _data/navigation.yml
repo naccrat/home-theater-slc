@@ -1,11 +1,26 @@
 - title: "Home"
-  link: "/"
+  url: "/"
 
 - title: "Services"
-  link: "/services/"
-
+  url: "/services/"
+  sublinks:
+    - title: "Home Automation"
+      url: "/home-automation/"
+    - title: "Projector Screens"
+      url: "/projector-screens/"
+    - title: "Projectors"
+      url: "/projectors/"
+    - title: "Smart Lighting"
+      url: "/smart-lighting/"
+    - title: "Speakers and Audio"
+      url: "/speakers-audio/"
+    - title: "Theater Seating"
+      url: "/theater-seating/"
+ 
 - title: "Articles"
-  link: "/blog/"
+  url: "/blog/"
 
 - title: "Contact Us"
-  link: "/contact/"
+  url: "/contact/"
+
+# https://mycyberuniverse.com/jekyll-bootstrap-dynamic-navigation-highlighting-active-element.html
