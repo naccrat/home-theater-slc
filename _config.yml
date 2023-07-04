@@ -55,7 +55,7 @@ form:
 # Local Business Schema
 schema:
   # name: Same as title above
-  image: ""
+  image: "https://www.hometheatersaltlakecity.com/img/logo-home-theater-slc.png"
   # telephone: Same as phone above
   priceRange: "$$"
   address:
