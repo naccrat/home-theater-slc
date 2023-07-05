@@ -24,9 +24,10 @@ state: Utah
 # Custom Navbar Colors
 navbar-colors:
   bg: "#ffffff"
-  menu-color: "#000000"
-  menu-hover-color: "19495B"
-  
+  menu-color: "#000000" # text color
+  menu-hover-color: "#19495B"
+  active-color: "#19495B" # Set to the same as menu-hover-color for now. Need to figure out the active thing
+
 # Custom button
 btn-custom-primary:
   text-color: "#ffffff"
