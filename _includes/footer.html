@@ -55,8 +55,13 @@
         </ul>
       </div>
       <div class="col-12 col-lg-6 col-xl-3 p-5">
-        <!-- <h3 class="h6 mb-3"><a href="{{ site.url }}" class="text-decoration-none">{{ site.title }}</a></h3> -->
-        <a href="{{ site.url }}"><img src="{{ site.url }}/img/logo-home-theater-slc.png" alt="logo for {{ site.title }}" width="100%"></a>
+        {% if site.logo %}
+        <a href="{{ site.url }}">
+          <img src="{{ site.url }}/img/{{ site.logo }}" width="{{ site.logo-width }}" alt="Logo for {{ site.title }}">
+        </a>
+        {% else %}
+        <h3 class="h6 mb-3"><a href="{{ site.url }}" class="text-decoration-none">{{ site.title }}</a></h3>
+        {% endif %}
         <address class="text-secondary mt-3">
           <p class="lead">Contact us today!</p>
           <a href="tel:{{ site.phone }}" class="btn btn-custom-primary px-4 py-3 mt-3">
@@ -66,8 +71,7 @@
       </div>
     </div>
   </div>
-
-  <div class="container text-center py-3 small">© 2023 All Rights Reserved | <a href="{{ site.url }}" class="link-fancy">{{ site.title }}</a> | Designed by <a href="https://325studio.com" class="link-fancy" target="_blank">325 Studio</a>
+  <div class="container text-center py-3 small">© 2023 All Rights Reserved | <a href="{{ site.url }}" class="link-fancy">{{ site.title }}</a> | Managed by <a href="https://325studio.com" class="link-fancy" target="_blank">325 Studio</a>
   </div>
 </footer>
 
